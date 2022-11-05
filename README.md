@@ -25,7 +25,7 @@ The tasks is solved by using 3 different approaches:
 
  - [Assignment_1_AHLT](https://github.com/denaldo98/SemEval-2013-Task-9/blob/main/Assignment_1_AHLT.pdf) contains the procedures followed to solve Task 9.1 by using the Rule-based approach and the traditional Machine Learning-based approach. The report provides also the main snippets of Python code, together with the obtained final results.
  - [Assignment_2_AHLT](https://github.com/denaldo98/SemEval-2013-Task-9/blob/main/Assignment_2_AHLT.pdf) contains the procedures followed to solve Task 9.2 by using the Rule-based approach and the traditional Machine Learning-based approach. The report provides also the main snippets of Python code, together with the obtained final results.
-- [Assignment_3_AHLT](https://github.com/denaldo98/SemEval-2013-Task-9/blob/main/Assignment_3_AHLT.pdf) contains procedure followed to solve  Task 9.1 and Task 9.2 by using the Deep Learning-based approach. The report provides also the main snippets of Python code, together with the obtained final results on both tasks.
+- [Assignment_3_AHLT](https://github.com/denaldo98/SemEval-2013-Task-9/blob/main/Assignment_3_AHLT.pdf) contains the procedurec followed to solve  Task 9.1 and Task 9.2 by using the Deep Learning-based approach. The report provides also the main snippets of Python code, together with the obtained final results on both tasks.
 
 ## Results
 Results obtained in the Devel and Test Datasets 
