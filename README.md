@@ -2,11 +2,6 @@
 # SemEval-2013-Task-9
 Project realized for the course *Advanced Human Languages Technologies* at *Universitat Politècnica de Catalunya* (Master in *Artificial Intelligence*).
 
-**Authors:**
-- Denaldo Lapi
-- Francesco Aristei
-
-
 The project consists in solving Task 9 of the *Semeval-2013: International Workshop on Semantic Evaluation* ([link to the paper)](https://aclanthology.org/S13-2056/).
 
 The task concerns the recognition of drugs and extraction of drug-drug interactions that appear in biomedical literature. It is divided in two subtasks:
